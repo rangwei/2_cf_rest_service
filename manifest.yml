@@ -1,0 +1,8 @@
+---
+applications:
+# Application
+- name: gs-rest
+  instances: 1
+  memory: 864M
+  path: target/gs-rest-service-0.1.0.jar
+
